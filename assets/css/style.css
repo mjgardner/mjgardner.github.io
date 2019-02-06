@@ -37,7 +37,7 @@ footer,
 /* start hover styling */
 
 #logo:hover,
-input[type=submit]:hover {
+input[type="submit"]:hover {
   background: #5e7f7e;
 }
 
@@ -255,15 +255,15 @@ h3,
 }
 
 label,
-input[type=text],
-input[type=email],
+input[type="text"],
+input[type="email"],
 textarea {
   display: block;
   width: 100%;
 }
 
-input[type=text],
-input[type=email],
+input[type="text"],
+input[type="email"],
 textarea {
   height: 35px;
   padding: 0 10px;
@@ -275,7 +275,7 @@ textarea {
   height: 200px;
 }
 
-input[type=submit] {
+input[type="submit"] {
   padding: 10px 30px;
   font-size: 18px;
   color: #fff;
