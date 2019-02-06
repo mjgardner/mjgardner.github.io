@@ -232,6 +232,10 @@ h3,
   border-bottom: 0;
 }
 
+.work p {
+  text-align: center;
+}
+
 .auth-image {
   float: left;
   width: 200px;
